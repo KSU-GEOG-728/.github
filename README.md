@@ -1,2 +1,0 @@
-# .github
-### GEOG 728
